@@ -31,7 +31,7 @@ Proyek ini merupakan dashboard interaktif yang dikembangkan dengan Streamlit unt
    ```
 2. Masuk ke direktori proyek:
    ```bash
-   cd repo-name
+   cd PROYEK-ANALISIS-DATA
    ```
 3. Instal paket yang diperlukan:
    ```bash
