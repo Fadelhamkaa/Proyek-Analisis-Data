@@ -30,7 +30,7 @@ Proyek ini menghadirkan **dashboard interaktif** berbasis **Streamlit** yang dir
    ```  
 2. Masuk ke direktori proyek:  
    ```bash
-   cd PROYEK-ANALISIS-DATA
+   cd Proyek-Analisis-Data
    ```  
 3. Instal dependensi yang dibutuhkan:  
    ```bash
