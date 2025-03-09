@@ -26,7 +26,8 @@ Proyek ini merupakan dashboard interaktif yang dikembangkan dengan Streamlit unt
 ## 📦 Instalasi
 1. Clone repository ini ke mesin lokal Anda:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/Fadelhamkaa/Proyek-Analisis-Data.git
+   
    ```
 2. Masuk ke direktori proyek:
    ```bash
@@ -42,7 +43,7 @@ Proyek ini merupakan dashboard interaktif yang dikembangkan dengan Streamlit unt
    ```bash
    streamlit run dashboard/dashboard.py
    ```
-2. Akses aplikasi di browser Anda di `http://localhost:8501`.
+2. Akses aplikasi di browser Anda di `https://bike-usage-data.streamlit.app/`.
 
 ## 📂 Struktur Direktori
 ```
