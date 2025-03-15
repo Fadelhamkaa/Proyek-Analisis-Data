@@ -6,7 +6,7 @@ import plotly.express as px
 st.set_page_config(page_title="Dashboard Bike Sharing", page_icon="🚴", layout="wide")
 
 # Membaca data
-all_df = pd.read_csv("G:/Proyek-Analisis-Data/dashboard/main_data.csv")
+all_df = pd.read_csv("dashboard/main_data.csv")
 all_df["dteday"] = pd.to_datetime(all_df["dteday"])
 
 # Sidebar Header
